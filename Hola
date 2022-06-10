@@ -4,3 +4,4 @@ matriz = np.array(3,3)
 matriz
 print (matriz)
 print("aaaaaaaaah ya comprendo")
+print("incluso le puedo agregar cosas")
